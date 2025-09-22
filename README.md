@@ -39,7 +39,7 @@
 <!--الصوره و نقاط او ليست  -->
 <br>
 
-<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 75%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
           
@@ -58,21 +58,6 @@
 <br>
 ---
 
-
-
-
-## 👤 معلومات شخصية
-
-<ul dir="auto">
-  <li>🎓 خريج <code>هندسة البرمجيات</code> ومهتم بتجربة المستخدم والأداء</li>
-  <li>🔭 أعمل حالياً كمطور <code>واجهات أمامية</code> باستخدام Vue وReact وNext.js</li>
-  <li>🧩 بارع في بناء <code>تطبيقات ويب ديناميكية وتفاعلية</code> باستخدام أحدث تقنيات الواجهة الأمامية</li>
-  <li>🎨 ماهر في استخدام الأطر لإنشاء <code>واجهات جذابة وسهلة الاستخدام</code> تركز على المستخدم</li>
-  <li>🔗 معتاد على <code>تكامل الواجهة الخلفية</code> والتعاون الفعّال مع فرق الـ Back-End</li>
-  <li>🧠 أمتلك مهارات قوية في <code>حل المشكلات</code> مع تركيز على التحسين المستمر</li>
-  <li>🚀 شغوف بدفع الابتكار ونجاح الفريق من خلال <code>التواصل الفعّال والتفكير الإبداعي والتخطيط المنظم</code></li>
-  <li>⚡ معلومة ممتعة: <code>أحب إعادة هيكلة الكود لتعليم الفرق بين الأنماط</code></li>
-</ul>
 
 ---
 
