@@ -1,7 +1,7 @@
 <!--  -->
 <!-- نبذه و الاسم -->
 <h1 align="center">Hi 👋، I,M Maraei Bin Helabi</h1>
-<h2 align="center" style="border-bottom: none;">Front-End Developer | Turning Ideas into Innovative Experiences 👨‍💻 </h2>
+<p align="center" style="border-bottom: none;">Front-End Developer | Turning Ideas into Innovative Experiences 👨‍💻 </p>
 <h4 align="center" style="margin-top: 8px;">
     Front-End Developer passionate about creating elegant, high-performance digital experiences. Skilled in turning ideas into seamless interactive interfaces, paying attention to the smallest details that make a difference, understanding user needs, delivering smart solutions, with continuously learning while efficiently solving problems.
 </h4>
