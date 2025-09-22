@@ -1,5 +1,5 @@
 <h1 align="center">مرحباً 👋، أنا مرعي علي بن هلابي</h1>
-<h3 align="center">مهندس واجهات أمامية | أصمم تجارب ويب متجاوبة، دقيقة، وشاملة</h3>
+<h3 align="center">مهندس واجهات أمامية | أبتكر حلول ويب متجاوبة و أحول الأفكار إلى منتجات رقمية فعالة</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Amiri&pause=1000&center=true&vCenter=true&width=435&lines=أهلاً+بكم+في+صفحتي+الشخصية+على+GitHub;متخصص+في+Vue.js,+Nuxt.js,+Next.js,+React;أهتم+بالأداء,+التصميم+المتجاوب,+والتوثيق+الثنائي+اللغة" alt="قراءة متحركة" />
@@ -43,36 +43,7 @@
 
 ---
 
-## 🛠️ المهارات التقنية
 
-- Vue 3, Nuxt 3, Next.js, React
-- SSR, SSG, CSR, Hybrid Rendering
-- CSS Architecture, Asset Optimization
-- Web Security: CORS, JWT, Cookies
-- Accessibility & RTL Support
-- GitHub Workflows & Team Collaboration
-
----
-
-## 📚 مشاريع مختارة
-
-### 🛍️ sindbad_store
-نظام إدارة مهام للطلاب بجامعة الملك سعود باستخدام TypeScript وواجهات تفاعلية.  
-![sindbad_store](https://github.com/Maraei-Helabi/sindbad_store/blob/main/screenshot.png)
-
----
-
-### 📖 NasAden
-منصة محتوى مبتكرة تقدم تجربة فريدة للمستخدمين عبر محتوى متنوع.  
-![NasAden](https://github.com/Maraei-Helabi/NasAden/blob/main/preview.png)
-
----
-
-### 🪑 Sofa_Store
-متجر أثاث مصمم بـ HTML/CSS/JS مع تجربة مستخدم سلسة.  
-![Sofa_Store](https://github.com/Maraei-Helabi/Sofa_Store/blob/main/demo.png)
-
----
 
 ## 👤 معلومات شخصية
 
@@ -90,9 +61,3 @@
 
 ---
 
-## ☕ دعم عملي
-
-<a href="https://www.buymeacoffee.com/maraeihelabi" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-       alt="Buy Me A Coffee" 
-       style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
