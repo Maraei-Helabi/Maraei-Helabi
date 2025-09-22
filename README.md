@@ -1,3 +1,5 @@
+<!--  -->
+<!-- نبذه و الاسم -->
 <h1 align="center">مرحباً 👋، أنا مرعي علي بن هلابي</h1>
 <h3 align="center">مهندس واجهات أمامية | أبتكر حلول ويب متجاوبة و أحول الأفكار إلى منتجات رقمية فعالة</h3>
 
@@ -5,6 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Amiri&pause=1000&center=true&vCenter=true&width=435&lines=أهلاً+بكم+في+صفحتي+الشخصية+على+GitHub;متخصص+في+Vue.js,+Nuxt.js,+Next.js,+React;أهتم+بالأداء,+التصميم+المتجاوب,+والتوثيق+الثنائي+اللغة" alt="قراءة متحركة" />
 </p>
 
+<!--  -->
+
+<!--   احصائيات خفيفهه-->
 <div align="center">
     <a href="https://github.com/Maraei-Helabi/Maraei-Helabi/stargazers">
         <img src="https://img.shields.io/github/stars/Maraei-Helabi/Maraei-Helabi" alt="نجوم GitHub"/></a>
@@ -32,6 +37,26 @@
 </p>
 
 ---
+<!--  -->
+<!--الصوره و نقاط او ليست  -->
+<br>
+<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
+          
+    
+<ul dir="auto">
+  <li>🏫 I am a <code>Computer Science student</code> at Al-Shorouk Academy</li>
+  <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
+  <li>🌱 I’m currently studying <code>Backend Development</code>.</li>
+  <li>📫 How to reach me: <strong><a href="mailto:DevOmarHussien@gmail.com"><code>DevOmarHussien@gmail.com</code></a></strong></li>
+  <li>🤔 I’m currently open for a new <code>job opportunity</code>. You can check my <a href="https://omarresume.netlify.app" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
+  <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
+  <li>⚡ Fun fact: <code>I love coding and building cool projects</code>!</li>
+</ul>
+<br>
+---
+
 
 ## 🧠 من أنا؟
 
