@@ -1,7 +1,7 @@
 <!--  -->
 <!-- نبذه و الاسم -->
 <h1 align="center">Hi 👋، I,M Maraei Bin Helabi</h1>
-<h3 align="center" style="font-size:1.5em; font-weight:bold; margin-top: 4px;">Front-End Developer | Turning Ideas into Innovative Experiences 👨‍💻 </h3>
+<h3 align="center" style="">Front-End Developer | Turning Ideas into Innovative Experiences 👨‍💻 </h3>
 <h4 align="center" style="margin-top: 8px;">
     Front-End Developer passionate about creating elegant, high-performance digital experiences. Skilled in turning ideas into seamless interactive interfaces, paying attention to the smallest details that make a difference, understanding user needs, delivering smart solutions, with continuously learning while efficiently solving problems.
 </h4>
@@ -39,20 +39,22 @@
 <!--الصوره و نقاط او ليست  -->
 <br>
 
-<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 75%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
           
     
 <ul dir="auto">
-  <li>🏫 I am a <code>Computer Science student</code> at Al-Shorouk Academy</li>
-  <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
-  <li>🌱 I’m currently studying <code>Backend Development</code>.</li>
-  <li>📫 How to reach me: <strong><a href="mailto:DevOmarHussien@gmail.com"><code>DevOmarHussien@gmail.com</code></a></strong></li>
-  <li>🤔 I’m currently open for a new <code>job opportunity</code>. You can check my <a href="https://omarresume.netlify.app" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
-  <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
-  <li>⚡ Fun fact: <code>I love coding and building cool projects</code>!</li>
+  <li>🎓 Graduate in <code>Software Engineering</code> with a focus on user experience and performance</li>
+  <li>🔭 Currently working as a <code>Front-End Developer</code> using Vue, React, and Next.js</li>
+  <li>🧩 Skilled in building <code>dynamic and interactive web applications</code> using modern front-end technologies</li>
+  <li>🎨 Proficient in using frameworks to create <code>attractive, user-friendly interfaces</code> focused on the user</li>
+  <li>🔗 Experienced in <code>back-end integration</code> and effective collaboration with Back-End teams</li>
+  <li>🧠 Strong <code>problem-solving</code> skills with a focus on continuous improvement</li>
+  <li>🚀 Passionate about driving innovation and team success through <code>effective communication, creative thinking, and organized planning</code></li>
+  <li>⚡ Fun fact: <code>I enjoy refactoring code to teach teams about design patterns</code></li>
 </ul>
+
 <br>
 ---
 
