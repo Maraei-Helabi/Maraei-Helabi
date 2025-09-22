@@ -3,10 +3,6 @@
 <h1 align="center">مرحباً 👋، أنا مرعي علي بن هلابي</h1>
 <h3 align="center">مهندس واجهات أمامية | أبتكر حلول ويب متجاوبة و أحول الأفكار إلى منتجات رقمية فعالة</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Amiri&pause=1000&center=true&vCenter=true&width=435&lines=أهلاً+بكم+في+صفحتي+الشخصية+على+GitHub;متخصص+في+Vue.js,+Nuxt.js,+Next.js,+React;أهتم+بالأداء,+التصميم+المتجاوب,+والتوثيق+الثنائي+اللغة" alt="قراءة متحركة" />
-</p>
-
 <!--  -->
 
 <!--   احصائيات خفيفهه-->
@@ -40,6 +36,8 @@
 <!--  -->
 <!--الصوره و نقاط او ليست  -->
 <br>
+<br>
+<hr>
 <p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
