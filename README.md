@@ -71,7 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80" alt="Vue.js">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" alt="github">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" alt="Next.js">
-  <img src="https://media.giphy.com/media/xT5LMp5elF3Y3boJyw/giphy.gif" width="100" alt="Nuxt.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="80" alt="Nuxt.js">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="vsCode">
 
   <!-- Tech Icons -->
