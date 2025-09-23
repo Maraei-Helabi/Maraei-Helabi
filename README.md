@@ -64,18 +64,17 @@
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠 Languages and Tools</h2><a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🛠 Languages and Tools" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <br>
 <p align="center">
-  <!-- الأيقونات المتحركة الحالية -->
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" alt="gif1">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" alt="gif2">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" alt="gif3">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" alt="gif4">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="gif5">
 
-  <!-- أيقونات التقنيات المتحركة -->
-  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="100" alt="TypeScript">
-  <img src="https://media.giphy.com/media/l0ErLeqam8yZzpXva/giphy.gif" width="100" alt="Vue.js">
-  <img src="https://media.giphy.com/media/RAoMw0b0E1F0U/giphy.gif" width="100" alt="Next.js">
+  <!-- Tech Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80" alt="Vue.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" alt="Next.js">
 </p>
+
 
 
 
